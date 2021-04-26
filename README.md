@@ -1,3 +1,12 @@
+# CRUD Sederhana
+<ul>
+  <li>Show</li>
+  <li>Insert</li>
+  <li>Update</li>
+  <li>Delete</li>
+</ul>
+
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
